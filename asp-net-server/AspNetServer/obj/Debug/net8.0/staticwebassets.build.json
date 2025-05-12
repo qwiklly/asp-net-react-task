@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EQFoWMX6S1QGLce1lwylhPp+GghR9UVvox2S5VmlIYU=",
+  "Source": "AspNetServer",
+  "BasePath": "_content/AspNetServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
